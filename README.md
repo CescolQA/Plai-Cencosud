@@ -1,4 +1,4 @@
 # Plai-Cencosud
-Featured
+Proyecto Destacado
 
 In progress..
