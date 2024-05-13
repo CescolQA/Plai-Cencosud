@@ -1,4 +1,4 @@
 # Plai-Cencosud
-Proyecto Destacado
+Tecnología de Inteligencia Artificial para atención a usuarios. 
 
 In progress..
