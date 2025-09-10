@@ -9,10 +9,10 @@ Objetivo: Incorporación de Agentes de Inteligencia Artificial para atención y 
 
 - Arquitectura del Proyecto IA en SGC
   
-  Sistemas y módulos internos
-  Modelo de Lenguaje (LLM: GPT-3.5/4)
-  MCP (Model Context Protocol)
-  Plataforma Plai (Cencosud AI Hub)
-  Usuarios finales
+  * Sistemas y módulos internos
+  * Modelo de Lenguaje (LLM: GPT-3.5/4)
+  * MCP (Model Context Protocol)
+  * Plataforma Plai (Cencosud AI Hub)
+  * Usuarios finales
 
 << En los archivos adjuntos está desglosado capturas de la gestión de trabajo del rol de Analista de Soporte de Herramientas con IA durante el desarrollo e incorporación del proyecto. Chequealo! >>
